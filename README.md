@@ -3,15 +3,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://pbs.twimg.com/media/GbsOuqha8AAdpzw?format=jpg&name=large" height="300" />
-     <p align="center">Images from X: ロス/@ROSU7373</p>
-    </td>
-    <td>
       <p>
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width ="25"> Studying at <strong>TELKOM UNIVERSITY</strong><br><br>
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width ="25"> I do coding<br><br>
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" width ="25"> And gaming, music and watch anime
       </p>
+    </td>
+    <td>
+      <img src="https://pbs.twimg.com/media/GbsOuqha8AAdpzw?format=jpg&name=large" height="300" />
+     <p align="center">Images from X: ロス/@ROSU7373</p>
     </td>
   </tr>
   <tr>
