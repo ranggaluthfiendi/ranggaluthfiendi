@@ -4,15 +4,15 @@
   <tr>
     <td>
       <p>
-        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width ="15"> <code>Studying at <strong>TELKOM UNIVERSITY</strong></code> /><br>
-        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width ="15"> <code>I do <i>coding</i></code> /><br>
-        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" width ="15"> <code>And <i>gaming</i>, <i>music</i></code> />
+        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width ="15"> Studying at <code><strong>TELKOM UNIVERSITY Bandung</strong></code> /><br>
+        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width ="15"> I do <code><i>coding</i></code> /><br>
+        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" width ="15"> And <code><i>gaming</i></code>, <code><i>music</i></code> />
       </p>
     </td>
     <td>
       <div align="center">
         <img src="https://pbs.twimg.com/media/GbsOuqha8AAdpzw?format=jpg&name=large" height="100" />
-        <p>Images from X: ロス/@ROSU7373</p>
+        <p>Images from <b>X</b>: <code>@ROSU7373</code>/<code>ロス</code></p>
       </div>
     </td>
   </tr>
