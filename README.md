@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://pbs.twimg.com/media/GbsOuqha8AAdpzw?format=jpg&name=large" height="300" />
+      <img src="https://pbs.twimg.com/media/GbsOuqha8AAdpzw?format=jpg&name=large" height="250" />
      <p align="center">Images from X: ロス/@ROSU7373</p>
     </td>
     <td>
