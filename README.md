@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Skills</h3>
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Socials</h3>
+<h2 align="left">Socials</h2>
 
 ###
 
@@ -55,6 +55,8 @@
 
 ###
 
-<p align="left">Images from X: ロス/@ROSU7373</p>
+<br clear="both">
+
+<p align="center">Images from X: ロス/@ROSU7373</p>
 
 ###
