@@ -4,9 +4,9 @@
   <tr>
     <td>
       <p>
-        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width ="15"> Studying at <code><strong>TELKOM UNIVERSITY Bandung</strong></code> /><br><br>
-        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width ="15"> I do <code>coding</code> /><br><br>
-        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" width ="15"> And <code>gaming</code>, <code>music</code> />
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width ="15"> Studying at <code><strong>TELKOM UNIVERSITY Bandung</strong></code><br><br>
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width ="15"> I do <code>coding</code><br><br>
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" width ="15"> And <code>gaming</code>, <code>music</code>
       </p>
     </td>
     <td>
