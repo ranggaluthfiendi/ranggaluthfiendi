@@ -10,7 +10,7 @@
       </p>
     </td>
     <td>
-      <img src="https://pbs.twimg.com/media/GbsOuqha8AAdpzw?format=jpg&name=large" height="300" />
+      <img src="https://pbs.twimg.com/media/GbsOuqha8AAdpzw?format=jpg&name=large" height="100" />
      <p align="center">Images from X: ロス/@ROSU7373</p>
     </td>
   </tr>
