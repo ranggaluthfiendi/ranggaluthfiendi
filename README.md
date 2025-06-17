@@ -16,8 +16,6 @@
   </tr>
 </table>
 
-<br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <div align="center">
@@ -33,8 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
-
-<br>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width ="25"><b> Socials</b>
 
@@ -53,4 +49,3 @@
   </a>
 </div>
 
-<br>
