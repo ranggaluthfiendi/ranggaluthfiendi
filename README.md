@@ -1,12 +1,12 @@
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width ="25"><b> Hi there!</b>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width ="25"><b> Hi there!</b>
 
 <table>
   <tr>
     <td>
       <p>
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width ="25"> Studying at <strong>TELKOM UNIVERSITY</strong><br><br>
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width ="25"> I do coding<br><br>
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" width ="25"> And gaming, music and watch anime
+        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width ="15"> <code>Studying at <strong>TELKOM UNIVERSITY</strong></code> /><br>
+        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width ="15"> <code>I do <i>coding</i></code> /><br>
+        < <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" width ="15"> <code>And <i>gaming</i>, <i>music</i></code> />
       </p>
     </td>
     <td>
@@ -18,10 +18,10 @@
   </tr>
   <tr>
     <td>
-      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"><b> Skills</b>
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> <b> Skills:</b>
     </td>
      <td>
-      <div align="center">
+      <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
         <img width="12" />
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
@@ -38,10 +38,10 @@
   </tr>
   <tr>
     <td>
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width ="15"><b> Socials</b>
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width ="15"> <b> Socials:</b>
     </td>
     <td>
-      <div align="center">
+      <div>
         <a href="https://www.instagram.com/Rang.Luthfi" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo" />
         </a>
