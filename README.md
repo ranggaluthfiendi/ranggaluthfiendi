@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="530" src="https://pbs.twimg.com/media/FtAovl3agAEB9L2?format=jpg&name=large"  />
-</div>
-
-###
-
 <img align="left" height="73" src="https://camo.githubusercontent.com/0e918073302bb388d05bae6b660b5bef8cb3b9b8d4eafac7c251f175f9f8fb3d/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434622f3531322e676966"  />
 
 ###
@@ -20,7 +14,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h3 align="left">Skills</h3>
 
 ###
 
@@ -40,7 +34,7 @@
 
 ###
 
-<h2 align="left">Socials</h2>
+<h3 align="left">Socials</h3>
 
 ###
 
